@@ -1,16 +1,22 @@
-# dice_game
+# Dice Game
 
-A new Flutter project.
+Welcome to the **Dice Game** project, a simple Flutter app designed to roll dice and test your luck!
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Dice Game is a basic Flutter project that allows users to roll a dice with a tap. Each roll presents a random number from 1 to 6, simulating a real dice roll.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dice_game.git
